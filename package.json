@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "dialogflow": "^4.0.3",
+    "uuid": "^8.3.2"
+  }
+}
